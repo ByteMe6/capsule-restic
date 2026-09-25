@@ -8,7 +8,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![restic](https://img.shields.io/badge/restic-encrypted-00ADD8?style=for-the-badge)
 ![AFP](https://img.shields.io/badge/Time_Capsule-AFP-999999?style=for-the-badge&logo=apple&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge)
 
 </div>
 
@@ -117,4 +117,4 @@ nas-backup.sh restore        # 3. get your files back
 
 ## 📄 License
 
-[MIT](LICENSE)
+[GNU GPL v3.0](LICENSE)
