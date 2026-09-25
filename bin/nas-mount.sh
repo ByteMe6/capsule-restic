@@ -64,7 +64,7 @@ if [[ ! -r "$CONFIG" ]]; then
 
 Create it with mode 0600:
 
-    AFP_HOST="192.168.0.136"
+    AFP_HOST="192.168.x.x"
     AFP_USER="ByteMe6"
     AFP_PASS="..."
     NAS_BASE="\$HOME/nas"
