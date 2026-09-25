@@ -1,0 +1,5 @@
+# ~/.config/nas/config  — chmod 600
+AFP_HOST="192.168.0.10"
+AFP_USER="your-user"
+AFP_PASS="your-password"
+NAS_BASE="$HOME/nas"
