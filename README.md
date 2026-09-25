@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗄️ backup-tools
+# 🗄️ capsule-restic
 
 **Encrypted `$HOME` backups to an Apple Time Capsule — and a one-command way back to a working Arch system.**
 
@@ -38,8 +38,8 @@
 ## 🚀 Install
 
 ```bash
-git clone https://github.com/ByteMe6/backup-tools.git
-cd backup-tools
+git clone https://github.com/ByteMe6/capsule-restic.git
+cd capsule-restic
 ./install.sh              # symlinks into ~/.local/bin, seeds ~/.config/nas/config
 $EDITOR ~/.config/nas/config
 ```
